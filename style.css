@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    font-family:Cairo,Arial,sans-serif;
+    background:#f7f5f2;
+    color:#333;
+}
+
+header{
+    background:#5b1f2b;
+    color:#fff;
+    text-align:center;
+    padding:80px 20px;
+}
+
+h1{
+    font-size:60px;
+}
+
+section{
+    width:90%;
+    margin:auto;
+    padding:60px 0;
+}
+
+.card{
+    background:#fff;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
